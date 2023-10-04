@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "img": "../asset/h.jpg",
+        "firstText": "Pearl Harbor",
+        "pTex": "R • Action, Thriller • Movie"
+    },
+    {
+        "id":1,
+        "img": "../asset/l.jpg",
+        "firstText": "Home-Alone",
+        "pTex": "R • Comedy, Thriller • Movie"
+    },
+    {
+        "id":1,
+        "img": "../asset/j.jpg",
+        "firstText": "The Accountant",
+        "pTex": "R • Action, Thriller • Movie"
+    },
+    {
+        "id":1,
+        "img": "../asset/w.jpg",
+        "firstText": "Snake Head",
+        "pTex": "R • Action, Thriller • Movie"
+    }
+]

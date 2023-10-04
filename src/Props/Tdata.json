@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "img": "../asset/q.jpg",
+        "firstText": "In Time",
+        "pTex": "RPG-13 • Thriller, Science Fictio",
+        "title": "HULU ORIGINALS"
+    },
+    {
+        "id":2,
+        "img": "../asset/e.jpg",
+        "firstText": "Before the devil Knows you are dead",
+        "pTex": "R • Action, Thriller • Movie",
+        "title": "HULU ORIGINALS"
+    },
+    {
+        "id":3,
+        "img": "../asset/f.jpg",
+        "firstText": "The A-Team",
+        "pTex": "PG-13 • Action, Adventure •",
+        "title": "HULU ORIGINALS"
+    },
+    {
+        "id":4,
+        "img": "../asset/g.jpg",
+        "firstText": "Deep Water",
+        "pTex": "R • Thriller, Latino • Movie",
+        "title": "HULU ORIGINALS"
+    }
+    
+]

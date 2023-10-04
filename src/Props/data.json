@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "img": "../asset/a.jpg",
+        "firstText": "Main Street",
+        "pTex": "R • Comedy, Thriller • Movie"
+    },
+    {
+        "id":1,
+        "img": "../asset/b.jpg",
+        "firstText": "Books of Blood",
+        "pTex": "R • Horro, Thriller • Movie"
+    },
+    {
+        "id":1,
+        "img": "../asset/c.jpg",
+        "firstText": "Doctor Sleep",
+        "pTex": "R • Thriller, Horror • Movie"
+    },
+    {
+        "id":1,
+        "img": "../asset/d.jpg",
+        "firstText": "Black Site",
+        "pTex": "R • Action, Thriller • Movie"
+    }
+]
